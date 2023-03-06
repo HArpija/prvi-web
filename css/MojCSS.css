@@ -1,0 +1,29 @@
+﻿.form-label {
+    background-color: #abad88;
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: .25rem;
+}
+
+.form-control {
+    color: #445d74;
+    background-color: #dadce5;
+}
+
+.btn-primary {
+    background-color: #0e356c !important;
+}
+btn-sm {
+    background-color: #0e356c !important;
+}
+.btn-secondary {
+    background-color: #545c64 !important;
+}
+
+.sidebar {
+    background-image: linear-gradient(180deg, rgb(228 191 83) 0%, #062347 70%) !important;
+}
+.card-body {
+    background-color: #abad88;
+}
